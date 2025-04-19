@@ -1,6 +1,6 @@
 # HowTos
-How To's for Many Technical Things
-*Potentially out of date per AI
+How To's for Many Technical Things \
+*Potentialy outdated per AI
 
 ## Kubernetes
 [Upgrade Kubernetes](/Upgrade_Kubernetes.md)

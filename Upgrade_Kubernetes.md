@@ -1,6 +1,5 @@
 # Comprehensive Guide: Upgrading Kubernetes in Dev and Production Environments
 
-- *Potentialy outdated per AI
 - This guide provides a detailed, step-by-step approach for upgrading Kubernetes clusters in both development and production environments, with a focus on minimizing risk and ensuring operational continuity.
 
 ## Pre-Upgrade Phase
